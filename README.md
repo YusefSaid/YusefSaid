@@ -1,7 +1,7 @@
 # Hi 👋, I'm Yusef Said
 
 🎓 MSc Artificial Intelligence student and Computer Engineer from Norway.  
-🔬 Focused on system development, databases, machine learning, and cloud integration.  
+🔬 Focused on system development, databases, machine learning, and API integrations.  
 🚀 Passionate about building practical, scalable solutions.
 
 ## Connect with me

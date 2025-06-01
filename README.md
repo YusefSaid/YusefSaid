@@ -39,16 +39,31 @@ Series of hands-on scripting tasks using **Terraform**, **Ansible**, **Docker**,
 
 ---
 
-## 📊 GitHub Stats
-
 ## 📚 Current Focus Areas
 
-- Infrastructure as Code (Terraform, Ansible)
-- Automation & scripting with Bash and Python
-- Working with VMs, Linux, and OS configuration
-- Database design and optimization (PostgreSQL, MySQL)
-- Secure development practices and backend integration
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YusefSaid&layout=compact&theme=github_dark)
+<div align="center">
+
+💠 <b>Infrastructure as Code</b>  
+Terraform & Ansible for automated provisioning and deployment  
+
+💠 <b>Automation & Scripting</b>  
+Developing tools and scripts with Bash and Python  
+
+💠 <b>System Configuration</b>  
+Managing Linux environments, virtual machines, and OS automation  
+
+💠 <b>Database Engineering</b>  
+PostgreSQL and MySQL for schema design, queries, and optimization  
+
+💠 <b>Secure Backend Integration</b>  
+Building API-driven and security-focused backend services  
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusefSaid&layout=compact&theme=github_dark" alt="Top Languages" />
+
+</div>
+
 
 ---
 

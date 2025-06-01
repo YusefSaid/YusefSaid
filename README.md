@@ -6,18 +6,20 @@
 
 ---
 
-## 🔧 Tech Stack & Tools
+## 🛠 Tech Stack & Tools
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
-![Shell Scripting](https://img.shields.io/badge/-Shell_Scripting-05122A?style=flat&logo=gnu-bash)
-![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=ansible)
-![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
@@ -39,7 +41,13 @@ Series of hands-on scripting tasks using **Terraform**, **Ansible**, **Docker**,
 
 ## 📊 GitHub Stats
 
-![Yusef's GitHub stats](https://github-readme-stats.vercel.app/api?username=YusefSaid&show_icons=true&theme=github_dark)
+## 📚 Current Focus Areas
+
+- Infrastructure as Code (Terraform, Ansible)
+- Automation & scripting with Bash and Python
+- Working with VMs, Linux, and OS configuration
+- Database design and optimization (PostgreSQL, MySQL)
+- Secure development practices and backend integration
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YusefSaid&layout=compact&theme=github_dark)
 
 ---

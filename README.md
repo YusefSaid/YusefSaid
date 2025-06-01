@@ -38,35 +38,35 @@ Web application and dashboard for monitoring automated backend processes. Design
 Series of hands-on scripting tasks using **Terraform**, **Ansible**, **Docker**, and **Linux shell scripting** — involving provisioning, service deployment, and automation of CTFd platforms and multi-container environments.
 
 ---
-
 ## 📚 Current Focus Areas
 
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; gap: 2rem;">
 
-        <p><b>🔹 Infrastructure as Code</b><br>
-        Terraform & Ansible for automated provisioning and deployment</p>
+<!-- Left side -->
+<div style="flex: 1; min-width: 250px;">
 
-        <p><b>🔹 Automation & Scripting</b><br>
-        Developing tools and scripts with Bash and Python</p>
+🔹 **Infrastructure as Code**  
+Terraform & Ansible for automated provisioning and deployment
 
-        <p><b>🔹 System Configuration</b><br>
-        Managing Linux environments, virtual machines, and OS automation</p>
+🔹 **Automation & Scripting**  
+Developing tools and scripts with Bash and Python
 
-        <p><b>🔹 Database Engineering</b><br>
-        PostgreSQL and MySQL for schema design, queries, and optimization</p>
+🔹 **System Configuration**  
+Managing Linux environments, virtual machines, and OS automation
 
-        <p><b>🔹 Secure Backend Integration</b><br>
-        Building API-driven and security-focused backend services</p>
+🔹 **Database Engineering**  
+PostgreSQL and MySQL for schema design, queries, and optimization
 
-      </td>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusefSaid&layout=compact&theme=github_dark" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+🔹 **Secure Backend Integration**  
+Building API-driven and security-focused backend services
+
+</div>
+
+<!-- Right side -->
+<div style="flex: 1; min-width: 250px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusefSaid&layout=compact&theme=github_dark" alt="Top Languages" />
+</div>
+
 </div>
 
 

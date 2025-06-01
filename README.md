@@ -40,35 +40,22 @@ Series of hands-on scripting tasks using **Terraform**, **Ansible**, **Docker**,
 ---
 ## 📚 Current Focus Areas
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; gap: 2rem;">
-
-<!-- Left side -->
-<div style="flex: 1; min-width: 250px;">
-
-🔹 **Infrastructure as Code**  
+▸ **Infrastructure as Code**  
 Terraform & Ansible for automated provisioning and deployment
 
-🔹 **Automation & Scripting**  
+▸ **Automation & Scripting**  
 Developing tools and scripts with Bash and Python
 
-🔹 **System Configuration**  
+▸ **System Configuration**  
 Managing Linux environments, virtual machines, and OS automation
 
-🔹 **Database Engineering**  
+▸ **Database Engineering**  
 PostgreSQL and MySQL for schema design, queries, and optimization
 
-🔹 **Secure Backend Integration**  
+▸ **Secure Backend Integration**  
 Building API-driven and security-focused backend services
 
-</div>
-
-<!-- Right side -->
-<div style="flex: 1; min-width: 250px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusefSaid&layout=compact&theme=github_dark" alt="Top Languages" />
-</div>
-
-</div>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusefSaid&layout=compact&theme=github_dark" alt="Top Languages" width="400"/>
 
 ---
 

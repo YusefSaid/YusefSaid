@@ -42,26 +42,31 @@ Series of hands-on scripting tasks using **Terraform**, **Ansible**, **Docker**,
 ## 📚 Current Focus Areas
 
 <div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
 
-💠 <b>Infrastructure as Code</b>  
-Terraform & Ansible for automated provisioning and deployment  
+        <p><b>🔹 Infrastructure as Code</b><br>
+        Terraform & Ansible for automated provisioning and deployment</p>
 
-💠 <b>Automation & Scripting</b>  
-Developing tools and scripts with Bash and Python  
+        <p><b>🔹 Automation & Scripting</b><br>
+        Developing tools and scripts with Bash and Python</p>
 
-💠 <b>System Configuration</b>  
-Managing Linux environments, virtual machines, and OS automation  
+        <p><b>🔹 System Configuration</b><br>
+        Managing Linux environments, virtual machines, and OS automation</p>
 
-💠 <b>Database Engineering</b>  
-PostgreSQL and MySQL for schema design, queries, and optimization  
+        <p><b>🔹 Database Engineering</b><br>
+        PostgreSQL and MySQL for schema design, queries, and optimization</p>
 
-💠 <b>Secure Backend Integration</b>  
-Building API-driven and security-focused backend services  
+        <p><b>🔹 Secure Backend Integration</b><br>
+        Building API-driven and security-focused backend services</p>
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusefSaid&layout=compact&theme=github_dark" alt="Top Languages" />
-
+      </td>
+      <td valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusefSaid&layout=compact&theme=github_dark" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 

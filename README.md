@@ -46,9 +46,11 @@ Series of hands-on scripting tasks using **Terraform**, **Ansible**, **Docker**,
 
 ## 🎯 Outside of Code
 
-- 🧗 I enjoy climbing and staying physically active  
-- 🎨 I’m passionate about digital art and visual design  
-- 📚 Currently diving deeper into infrastructure-as-code and backend systems
+- 🎮 I enjoy playing games, exploring new places, and helping others  
+- 🏃 I stay active through outdoor training and value a healthy lifestyle  
+- 🎨 I have a deep appreciation for all forms of art — from digital and visual arts to architecture and sports  
+- 📚 I'm continuously expanding my skills in databases, AI, IT operations, and cross-platform systems (Linux, Windows, VMs)  
+- ⚙️ I'm particularly interested in automation and infrastructure, with growing focus on system security and reliability
 
 ---
 

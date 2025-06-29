@@ -60,7 +60,7 @@
 
 ## 🚀 Highlighted Projects
 
-### 📊 [[IKT453 - Data Warehouse Project](https://github.com/YusefSaid/haavardos-IKT453-DataWarehouse](https://github.com/haavardos/IKT453-DataWarehouse))
+### 📊 [[[IKT453 - Data Warehouse Project](https://github.com/haavardos/IKT453-DataWarehouse))](https://github.com/haavardos/IKT453-DataWarehouse)
 Supabase- and Docker-based data warehouse for analytics using STAR schema, Kafka streaming, and materialized views.
 
 ### 🐟 [Fish Identification](https://github.com/YusefSaid/fish-identification)

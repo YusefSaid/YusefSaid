@@ -69,7 +69,7 @@ Neural network solution to identify fish species from underwater images. Trained
 ### 📈 [Bachelor Project](https://github.com/YusefSaid/BachelorProject)
 Web application and dashboard for monitoring automated backend processes. Designed and implemented core functionality using JavaScript and REST APIs.
 
-### 🔧 Scripting & Infrastructure Exercises
+### 🔧 Scripting & Infrastructure
 Series of hands-on scripting tasks using **Terraform**, **Ansible**, **Docker**, and **Linux shell scripting** — involving provisioning, service deployment, and automation of CTFd platforms and multi-container environments.
 
 ---

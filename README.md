@@ -61,7 +61,7 @@
 ## 🚀 Highlighted Projects
 
 ### 📊 [Data Warehouse Project](https://github.com/haavardos/IKT453-DataWarehouse)  
-Supabase- and Docker-based data warehouse solution featuring a STAR schema, Kafka streaming pipeline, and materialized views for efficient analytics.
+Supabase, Neo4j, MongoDB - and Docker-based data warehouse solution featuring a STAR schema, Kafka streaming pipeline, and materialized views for efficient analytics.
 
 ### 🐟 [Fish Identification](https://github.com/YusefSaid/fish-identification)
 Neural network solution to identify fish species from underwater images. Trained using the Fish4Knowledge dataset for ecological monitoring.

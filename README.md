@@ -1,8 +1,8 @@
 # Hi 👋, I'm Yusef Said
 
-🎓 MSc Artificial Intelligence student & Computer Engineer from **Norway**  
-💡 Focused on building practical systems through **software development**, **data engineering**, and **API integrations**  
-🛠️ Passionate about scripting, automation, and creating reliable backend solutions
+MSc Artificial Intelligence Student & Computer Engineer | Norway
+Focused on machine learning applications, full-stack development, and data engineering. 
+Building practical AI systems with emphasis on scalability and real-world deployment.
 
 ---
 
@@ -55,52 +55,55 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
-
 ---
 
-## 🚀 Highlighted Projects
+## Current Projects
 
-### 📊 [Data Warehouse Project](https://github.com/haavardos/IKT453-DataWarehouse)  
+### [Food Detection System for Digital Health (Team Project)](https://github.com/haraldbo/ikt524-food-backend-and-models/tree/feature/nutrition-prediction)
+Developing an ML-powered web application for automated food recognition and nutritional analysis from images. Exploring different datasets such as Food-101 and Nutrition5k datasets to finetune ML models on analyzing food images and to help provide clear analysis just from a simple image upload of a food. Some of the tech stacks involve: PyTorch (EfficientNet/MobileNet), Flask API backend, and Next.js frontend.
+
+### [N-BaIoT: IoT Botnet Detection Research](https://github.com/YusefSaid/N-BaIoT-Anomaly-Detection-Enhanced)
+Investigating cross-device generalization in IoT botnet detection using the N-BaIoT dataset. Working on uncovering limitations in existing evaluation methodologies and exploring aspects of the dataset that relevant papers have not thoroughly investigated, particularly around realistic deployment scenarios and cross-device performance.****
+
+-- 
+## Highlighted Projects
+
+### [Data Warehouse Project](https://github.com/haavardos/IKT453-DataWarehouse)  
 Supabase, Neo4j, MongoDB - and Docker-based data warehouse solution featuring a STAR schema, Kafka streaming pipeline, and materialized views for efficient analytics.
 
-### 🐟 [Fish Identification](https://github.com/YusefSaid/fish-identification)
+### [Fish Identification](https://github.com/YusefSaid/fish-identification)
 Neural network solution to identify fish species from underwater images. Trained using the Fish4Knowledge dataset for ecological monitoring.
 
-### 📈 [Bachelor Project](https://github.com/YusefSaid/BachelorProject)
+### [Bachelor Project](https://github.com/YusefSaid/BachelorProject)
 Web application and dashboard for monitoring automated backend processes. Designed and implemented core functionality using JavaScript and REST APIs.
 
-### 🔧 Scripting & Infrastructure
+###  [Scripting & Infrastructure]
+1. [Shell Scripting] (https://github.com/YusefSaid/Shell-scripting) 
+2. [Cloud Instance Initialization] (https://github.com/YusefSaid/Cloud-instance-initialization) 
+3. [Containerization Technology] (https://github.com/YusefSaid/Containerization-Technology)
+4. [CTFd Platform Setup with Vagrant and Docker] (https://github.com/YusefSaid/Software-Provisioning-and-Configuration-Management)
+5. [CTFd Platform Setup with Terraform and OpenStack] (https://github.com/YusefSaid/Infrastructure-As-Code)
 Series of hands-on scripting tasks using **Terraform**, **Ansible**, **Docker**, and **Linux shell scripting** — involving provisioning, service deployment, and automation of CTFd platforms and multi-container environments.
 
 ---
-## 📚 Current Focus Areas
+## Current Focus Areas
 
-▸ **Infrastructure as Code**  
-Terraform & Ansible for automated provisioning and deployment
+▸ **Machine Learning & Computer Vision**  
+Deep learning for image recognition, transfer learning, and model optimization
 
-▸ **Automation & Scripting**  
-Developing tools and scripts with Bash and Python
+▸ **IoT Security & Anomaly Detection**  
+ML-based threat detection and cross-device generalization research
 
-▸ **System Configuration**  
-Managing Linux environments, virtual machines, and OS automation
+▸ **Full-Stack ML Applications**  
+Building end-to-end systems from model training to production deployment
 
-▸ **Database Engineering**  
-PostgreSQL and MySQL for schema design, queries, and optimization
+▸ **Data Engineering & Analysis**  
+Feature engineering, dataset exploration, and statistical analysis for ML workflows
 
-▸ **Secure Backend Integration**  
-Building API-driven and security-focused backend services
+▸ **Backend Development & APIs**  
+RESTful services, async processing, and scalable system architecture
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusefSaid&layout=compact&theme=github_dark" alt="Top Languages" width="400"/>
-
----
-
-## 🎯 Outside of Code
-
-- 🎮 I enjoy playing games, exploring new places, and helping others  
-- 🏃 I stay active through outdoor training and value a healthy lifestyle  
-- 🎨 I have a deep appreciation for all forms of art — from digital and visual arts to architecture and sports  
-- 📚 I'm continuously expanding my skills in databases, AI, IT operations, and cross-platform systems (Linux, Windows, VMs)  
-- ⚙️ I'm particularly interested in automation and infrastructure, with growing focus on system security and reliability
 
 ---
 

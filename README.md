@@ -10,13 +10,6 @@ Building practical AI systems with emphasis on scalability and real-world deploy
 ![GitHub Streak](https://streak-stats.demolab.com/?user=YusefSaid&theme=dark)
 -->
 
-<p align="center">
-  <img src="https://badgen.net/badge/Contributions/103/green" />
-  <img src="https://badgen.net/badge/Repos/23/blue" />
-  <img src="https://badgen.net/badge/Commits/70/orange" />
-</p>
-
-
 
 
 ## Tech Stack & Tools

@@ -78,7 +78,7 @@ Neural network solution to identify fish species from underwater images. Trained
 ### [Bachelor Project](https://github.com/YusefSaid/BachelorProject)
 Web application and dashboard for monitoring automated backend processes. Designed and implemented core functionality using JavaScript and REST APIs.
 
-###  [Scripting & Infrastructure] [1](https://github.com/YusefSaid/Shell-scripting) [2](https://github.com/YusefSaid/Cloud-instance-initialization) [3](https://github.com/YusefSaid/Containerization-Technology) [4](https://github.com/YusefSaid/Software-Provisioning-and-Configuration-Management) [5](https://github.com/YusefSaid/Infrastructure-As-Code)
+###  Scripting & Infrastructure projects ([1](https://github.com/YusefSaid/Shell-scripting) [2](https://github.com/YusefSaid/Cloud-instance-initialization) [3](https://github.com/YusefSaid/Containerization-Technology) [4](https://github.com/YusefSaid/Software-Provisioning-and-Configuration-Management) [5](https://github.com/YusefSaid/Infrastructure-As-Code))
 1. [Shell Scripting] 
 2. [Cloud Instance Initialization] 
 3. [Containerization Technology] 

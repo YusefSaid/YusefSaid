@@ -56,7 +56,7 @@ Building practical AI systems with emphasis on scalability and real-world deploy
 Developing an ML-powered web application for automated food recognition and nutritional analysis from images. Exploring different datasets such as Food-101 and Nutrition5k datasets to finetune ML models on analyzing food images and to help provide clear analysis just from a simple image upload of a food. Some of the tech stacks involve: PyTorch (EfficientNet/MobileNet), Flask API backend, and Next.js frontend.
 
 ### [N-BaIoT: IoT Botnet Detection Research](https://github.com/YusefSaid/N-BaIoT-Anomaly-Detection-Enhanced)
-Investigating cross-device generalization in IoT botnet detection using the N-BaIoT dataset. Working on uncovering limitations in existing evaluation methodologies and exploring aspects of the dataset that relevant papers have not thoroughly investigated, particularly around realistic deployment scenarios and cross-device performance.****
+Investigating cross-device generalization in IoT botnet detection using the N-BaIoT dataset. Working on uncovering limitations in existing evaluation methodologies and exploring aspects of the dataset that relevant papers have not thoroughly investigated, particularly around realistic deployment scenarios and cross-device performance.
 
 ---
 

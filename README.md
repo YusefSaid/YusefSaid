@@ -65,7 +65,8 @@ Developing an ML-powered web application for automated food recognition and nutr
 ### [N-BaIoT: IoT Botnet Detection Research](https://github.com/YusefSaid/N-BaIoT-Anomaly-Detection-Enhanced)
 Investigating cross-device generalization in IoT botnet detection using the N-BaIoT dataset. Working on uncovering limitations in existing evaluation methodologies and exploring aspects of the dataset that relevant papers have not thoroughly investigated, particularly around realistic deployment scenarios and cross-device performance.****
 
--- 
+---
+
 ## Highlighted Projects
 
 ### [Data Warehouse Project](https://github.com/haavardos/IKT453-DataWarehouse)  
@@ -77,12 +78,12 @@ Neural network solution to identify fish species from underwater images. Trained
 ### [Bachelor Project](https://github.com/YusefSaid/BachelorProject)
 Web application and dashboard for monitoring automated backend processes. Designed and implemented core functionality using JavaScript and REST APIs.
 
-###  [Scripting & Infrastructure]
-1. [Shell Scripting] (https://github.com/YusefSaid/Shell-scripting) 
-2. [Cloud Instance Initialization] (https://github.com/YusefSaid/Cloud-instance-initialization) 
-3. [Containerization Technology] (https://github.com/YusefSaid/Containerization-Technology)
-4. [CTFd Platform Setup with Vagrant and Docker] (https://github.com/YusefSaid/Software-Provisioning-and-Configuration-Management)
-5. [CTFd Platform Setup with Terraform and OpenStack] (https://github.com/YusefSaid/Infrastructure-As-Code)
+###  [Scripting & Infrastructure] [1](https://github.com/YusefSaid/Shell-scripting) [2](https://github.com/YusefSaid/Cloud-instance-initialization) [3](https://github.com/YusefSaid/Containerization-Technology) [4](https://github.com/YusefSaid/Software-Provisioning-and-Configuration-Management) [5](https://github.com/YusefSaid/Infrastructure-As-Code)
+1. [Shell Scripting] 
+2. [Cloud Instance Initialization] 
+3. [Containerization Technology] 
+4. [CTFd Platform Setup with Vagrant and Docker] 
+5. [CTFd Platform Setup with Terraform and OpenStack]
 Series of hands-on scripting tasks using **Terraform**, **Ansible**, **Docker**, and **Linux shell scripting** — involving provisioning, service deployment, and automation of CTFd platforms and multi-container environments.
 
 ---

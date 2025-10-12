@@ -5,6 +5,10 @@ Focused on ML applications, Full-stack development, and Data engineering.
 Building practical AI systems with emphasis on scalability and real-world deployment.
 
 ---
+![Yusef’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YusefSaid&show_icons=true&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=YusefSaid&theme=dark)
+[![Contributions](https://badgen.net/badge/Contributions/103/green)](https://github.com/YusefSaid?tab=overview)
+
 
 ## Tech Stack & Tools
 

@@ -1,7 +1,7 @@
 # Hi 👋, I'm Yusef Said
 
-MSc Artificial Intelligence Student & Computer Engineer | Norway
-Focused on machine learning applications, full-stack development, and data engineering. 
+MSc Artificial Intelligence Student & Computer Engineer. 
+Focused on ML applications, Full-stack development, and Data engineering. 
 Building practical AI systems with emphasis on scalability and real-world deployment.
 
 ---
@@ -102,9 +102,9 @@ RESTful services, async processing, and scalable system architecture
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-📧 Email: [yusefsaid@hotmail.com](mailto:yusefsaid@hotmail.com)  
+Email: [yusefsaid@hotmail.com](mailto:yusefsaid@hotmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yusef-rahim-karim-said/)
 
 ---

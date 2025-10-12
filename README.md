@@ -80,10 +80,10 @@ Web application and dashboard for monitoring automated backend processes. Design
 
 ###  Scripting & Infrastructure projects ([1](https://github.com/YusefSaid/Shell-scripting) [2](https://github.com/YusefSaid/Cloud-instance-initialization) [3](https://github.com/YusefSaid/Containerization-Technology) [4](https://github.com/YusefSaid/Software-Provisioning-and-Configuration-Management) [5](https://github.com/YusefSaid/Infrastructure-As-Code))
 1. [Shell Scripting](https://github.com/YusefSaid/Shell-scripting)
-2. [Cloud Instance Initialization] 
-3. [Containerization Technology] 
-4. [CTFd Platform Setup with Vagrant and Docker] 
-5. [CTFd Platform Setup with Terraform and OpenStack]
+2. [Cloud Instance Initialization](https://github.com/YusefSaid/Cloud-instance-initialization) 
+3. [Containerization Technology](https://github.com/YusefSaid/Containerization-Technology)
+4. [CTFd Platform Setup with Vagrant and Docker](https://github.com/YusefSaid/Software-Provisioning-and-Configuration-Management)
+5. [CTFd Platform Setup with Terraform and OpenStack](https://github.com/YusefSaid/Infrastructure-As-Code)
 Series of hands-on scripting tasks using **Terraform**, **Ansible**, **Docker**, and **Linux shell scripting** — involving provisioning, service deployment, and automation of CTFd platforms and multi-container environments.
 
 ---

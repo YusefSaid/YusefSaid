@@ -57,7 +57,7 @@ Building practical AI systems with emphasis on scalability and real-world deploy
 ---
 ## Current Focus Areas
 
-▸ **Machine Learning & Computer Vision**  
+▸ **Machine Learning**  
 Deep learning for image recognition, transfer learning, and model optimization
 
 ▸ **IoT Security & Anomaly Detection**  

@@ -84,6 +84,7 @@ Web application and dashboard for monitoring automated backend processes. Design
 3. [Containerization Technology](https://github.com/YusefSaid/Containerization-Technology)
 4. [CTFd Platform Setup with Vagrant and Docker](https://github.com/YusefSaid/Software-Provisioning-and-Configuration-Management)
 5. [CTFd Platform Setup with Terraform and OpenStack](https://github.com/YusefSaid/Infrastructure-As-Code)
+
 Series of hands-on scripting tasks using **Terraform**, **Ansible**, **Docker**, and **Linux shell scripting** — involving provisioning, service deployment, and automation of CTFd platforms and multi-container environments.
 
 ---

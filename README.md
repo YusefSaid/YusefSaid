@@ -49,7 +49,26 @@ Building practical AI systems with emphasis on scalability and real-world deploy
 </p>
 
 ---
+## Current Focus Areas
 
+▸ **Machine Learning & Computer Vision**  
+Deep learning for image recognition, transfer learning, and model optimization
+
+▸ **IoT Security & Anomaly Detection**  
+ML-based threat detection and cross-device generalization research
+
+▸ **Full-Stack ML Applications**  
+Building end-to-end systems from model training to production deployment
+
+▸ **Data Engineering & Analysis**  
+Feature engineering, dataset exploration, and statistical analysis for ML workflows
+
+▸ **Backend Development & APIs**  
+RESTful services, async processing, and scalable system architecture
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusefSaid&layout=compact&theme=github_dark" alt="Top Languages" width="400"/>
+
+---
 ## Current Projects
 
 ### [Food Detection System for Digital Health (Team Project)](https://github.com/haraldbo/ikt524-food-backend-and-models/tree/feature/nutrition-prediction)
@@ -79,26 +98,6 @@ Web application and dashboard for monitoring automated backend processes. Design
 5. [CTFd Platform Setup with Terraform and OpenStack](https://github.com/YusefSaid/Infrastructure-As-Code)
 
 Series of hands-on scripting tasks using **Terraform**, **Ansible**, **Docker**, and **Linux shell scripting** — involving provisioning, service deployment, and automation of CTFd platforms and multi-container environments.
-
----
-## Current Focus Areas
-
-▸ **Machine Learning & Computer Vision**  
-Deep learning for image recognition, transfer learning, and model optimization
-
-▸ **IoT Security & Anomaly Detection**  
-ML-based threat detection and cross-device generalization research
-
-▸ **Full-Stack ML Applications**  
-Building end-to-end systems from model training to production deployment
-
-▸ **Data Engineering & Analysis**  
-Feature engineering, dataset exploration, and statistical analysis for ML workflows
-
-▸ **Backend Development & APIs**  
-RESTful services, async processing, and scalable system architecture
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusefSaid&layout=compact&theme=github_dark" alt="Top Languages" width="400"/>
 
 ---
 

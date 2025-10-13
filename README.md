@@ -77,7 +77,7 @@ RESTful services, async processing, and scalable system architecture
 ---
 ## Current Projects
 
-### [Food Detection System for Digital Health (Team Project)](https://github.com/haraldbo/ikt524-food-backend-and-models/tree/feature/nutrition-prediction)
+### [Food Detection System for Digital Health (Team Project)](https://github.com/haraldbo/ikt524-should-i-eat-that)
 Developing an ML-powered web application for automated food recognition and nutritional analysis from images. Exploring different datasets such as Food-101 and Nutrition5k datasets to finetune ML models on analyzing food images and to help provide clear analysis just from a simple image upload of a food. Some of the tech stacks involve: PyTorch (EfficientNet/MobileNet), Flask API backend, and Next.js frontend.
 
 ### [N-BaIoT: IoT Botnet Detection Research](https://github.com/YusefSaid/N-BaIoT-Anomaly-Detection-Enhanced)

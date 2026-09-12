@@ -1,7 +1,7 @@
 # Hi 👋, I'm Yusef Said
 
 MSc in AI Engineering & BSc in Computer Engineering.  
-Focused on data engineering, analysis, statistics, automation, and data preparation for AI/ML and LLM systems.
+Focused on data engineering, data analysis, statistics, automation, and preparing high-quality data for machine learning and large language model (LLM) applications.
 
 ---
 <!--

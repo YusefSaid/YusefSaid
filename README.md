@@ -1,8 +1,8 @@
 # Hi 👋, I'm Yusef Said
 
-MSc Artificial Intelligence Student & Computer Engineer. 
-Focused on ML applications, Full-stack development, and Data engineering. 
-Building practical AI systems with emphasis on scalability and real-world deployment.
+MSc in AI Engineering & BSc in Computer Engineering.  
+Focused on data engineering, data analysis, statistics, automation, and reliable data pipelines for AI/ML and LLM workflows.  
+Interested in transforming raw data into high-quality, reproducible datasets and practical analytical systems for real-world applications.
 
 ---
 <!--
@@ -10,11 +10,8 @@ Building practical AI systems with emphasis on scalability and real-world deploy
 ![GitHub Streak](https://streak-stats.demolab.com/?user=YusefSaid&theme=dark)
 -->
 
-
-
 ## Tech Stack & Tools
 
-<p align="left">
 <p align="left">
   <!-- ML/AI - PRIORITY -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -48,6 +45,7 @@ Building practical AI systems with emphasis on scalability and real-world deploy
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  
   <!-- Visualization -->
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Draw.io-FF9900?style=for-the-badge&logo=draw.io&logoColor=white"/>
@@ -57,53 +55,52 @@ Building practical AI systems with emphasis on scalability and real-world deploy
 ---
 ## Current Focus Areas
 
-▸ **Machine Learning**  
-Deep learning for image recognition, transfer learning, and model optimization
+▸ **Data Engineering & Preparation**  
+ETL, data cleaning, transformation, validation, integration, and dataset preparation for AI/ML and LLM workflows
 
-▸ **IoT Security & Anomaly Detection**  
-ML-based threat detection and cross-device generalization research
+▸ **Data Analysis & Statistics**  
+Exploratory data analysis, statistical testing, feature analysis, visualization, and data-quality assessment
 
-▸ **Full-Stack ML Applications**  
-Building end-to-end systems from model training to production deployment
+▸ **Automation & Data Pipelines**  
+Python and Bash scripting, API integrations, repeatable data-processing workflows, and pipeline automation
 
-▸ **Data Engineering & Analysis**  
-Feature engineering, dataset exploration, and statistical analysis for ML workflows
+▸ **AI/ML & LLM Workflows**  
+Model-ready dataset construction, training pipelines, experiment evaluation, and reliable handling of data used in machine learning and LLM systems
 
-▸ **Backend Development & APIs**  
-RESTful services, async processing, and scalable system architecture
+▸ **Backend, APIs & Databases**  
+REST APIs, database-driven applications, system integrations, and reliable data exchange between services
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusefSaid&layout=compact&theme=github_dark" alt="Top Languages" width="400"/>
 
 ---
-## Current Projects
-
-### [Food Detection System for Digital Health (Team Project)](https://github.com/haraldbo/ikt524-should-i-eat-that)
-Developing an ML-powered web application for automated food recognition and nutritional analysis from images. Exploring different datasets such as Food-101 and Nutrition5k datasets to finetune ML models on analyzing food images and to help provide clear analysis just from a simple image upload of a food. Some of the tech stacks involve: PyTorch (EfficientNet/MobileNet), Flask API backend, and Next.js frontend.
-
-### [N-BaIoT: IoT Botnet Detection Research](https://github.com/YusefSaid/N-BaIoT-Anomaly-Detection-Enhanced)
-Investigating cross-device generalization in IoT botnet detection using the N-BaIoT dataset. Working on uncovering limitations in existing evaluation methodologies and exploring aspects of the dataset that relevant papers have not thoroughly investigated, particularly around realistic deployment scenarios and cross-device performance.
-
----
-
 ## Highlighted Projects
 
-### [Data Warehouse Project](https://github.com/haavardos/IKT453-DataWarehouse)  
-Supabase, Neo4j, MongoDB - and Docker-based data warehouse solution featuring a STAR schema, Kafka streaming pipeline, and materialized views for efficient analytics.
+### [Master's Thesis – Multi-Station Wave Forecasting & Extreme Event Detection](https://github.com/knaan-moha/IKT590-Master-project)
+Deep-learning research project for short-term significant wave-height forecasting and extreme-event detection in the Norwegian North Sea. Compared hybrid **CNN-LSTM** and **CNN-Transformer** architectures using ERA5 and CMEMS data, including bias correction, statistical evaluation, hyperparameter tuning, and multi-horizon forecasting from 1 to 24 hours.
 
-### [Fish Identification](https://github.com/YusefSaid/fish-identification)
-Neural network solution to identify fish species from underwater images. Trained using the Fish4Knowledge dataset for ecological monitoring.
+### [Data Warehouse Project](https://github.com/haavardos/IKT453-DataWarehouse)  
+Data warehouse solution using **Supabase, Neo4j, MongoDB, Docker, and Kafka**, featuring a STAR schema, streaming data pipeline, and materialized views for efficient analytics.
+
+### [N-BaIoT: IoT Botnet Detection Research](https://github.com/YusefSaid/N-BaIoT-Anomaly-Detection-Enhanced)
+Machine-learning research on cross-device generalization for IoT botnet detection using the N-BaIoT dataset. Examined limitations in common evaluation methodologies and investigated more realistic deployment scenarios across heterogeneous devices.
+
+### [Food Detection System for Digital Health](https://github.com/haraldbo/ikt524-should-i-eat-that)
+Team project developing an ML-powered application for food recognition and nutritional analysis from images. Worked with datasets such as **Food-101** and **Nutrition5k**, using PyTorch-based image models with a Flask API backend and Next.js frontend.
 
 ### [Bachelor Project](https://github.com/YusefSaid/BachelorProject)
-Web application and dashboard for monitoring automated backend processes. Designed and implemented core functionality using JavaScript and REST APIs.
+Web application and dashboard for monitoring automated backend processes. Designed and implemented core functionality using **JavaScript** and **REST APIs**.
 
-###  Scripting & Infrastructure projects ([1](https://github.com/YusefSaid/Shell-scripting) [2](https://github.com/YusefSaid/Cloud-instance-initialization) [3](https://github.com/YusefSaid/Containerization-Technology) [4](https://github.com/YusefSaid/Software-Provisioning-and-Configuration-Management) [5](https://github.com/YusefSaid/Infrastructure-As-Code))
+### [Fish Identification](https://github.com/YusefSaid/fish-identification)
+Neural-network solution for identifying fish species from underwater images, trained using the Fish4Knowledge dataset for ecological monitoring.
+
+### Scripting & Infrastructure Projects ([1](https://github.com/YusefSaid/Shell-scripting) [2](https://github.com/YusefSaid/Cloud-instance-initialization) [3](https://github.com/YusefSaid/Containerization-Technology) [4](https://github.com/YusefSaid/Software-Provisioning-and-Configuration-Management) [5](https://github.com/YusefSaid/Infrastructure-As-Code))
 1. [Shell Scripting](https://github.com/YusefSaid/Shell-scripting)
-2. [Cloud Instance Initialization](https://github.com/YusefSaid/Cloud-instance-initialization) 
+2. [Cloud Instance Initialization](https://github.com/YusefSaid/Cloud-instance-initialization)
 3. [Containerization Technology](https://github.com/YusefSaid/Containerization-Technology)
 4. [CTFd Platform Setup with Vagrant and Docker](https://github.com/YusefSaid/Software-Provisioning-and-Configuration-Management)
 5. [CTFd Platform Setup with Terraform and OpenStack](https://github.com/YusefSaid/Infrastructure-As-Code)
 
-Series of hands-on scripting tasks using **Terraform**, **Ansible**, **Docker**, and **Linux shell scripting** — involving provisioning, service deployment, and automation of CTFd platforms and multi-container environments.
+Series of hands-on infrastructure and automation projects using **Terraform, Ansible, Docker, and Linux shell scripting**, covering provisioning, service deployment, CTFd environments, and multi-container systems.
 
 ---
 

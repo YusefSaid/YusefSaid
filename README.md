@@ -38,7 +38,7 @@ Focused on data engineering, data analysis, statistics, automation, and preparin
 ## Current Focus Areas
 
 ▸ **Data Engineering & Preparation**  
-ETL, data cleaning, transformation, validation, integration, and dataset preparation for AI/ML and LLM workflows
+ETL, data cleaning, transformation, validation, integration, and preparation of datasets for analytics and model training
 
 ▸ **Data Analysis & Statistics**  
 Exploratory data analysis, statistical testing, feature analysis, visualization, and data-quality assessment
@@ -46,8 +46,8 @@ Exploratory data analysis, statistical testing, feature analysis, visualization,
 ▸ **Automation & Data Pipelines**  
 Python and Bash scripting, API integrations, repeatable data-processing workflows, and pipeline automation
 
-▸ **AI/ML & LLM Workflows**  
-Model-ready dataset construction, training pipelines, experiment evaluation, and reliable handling of data used in machine learning and LLM systems
+▸ **Machine Learning & LLM Data Preparation**  
+Preparing and validating datasets, building training pipelines, and evaluating models for machine learning and LLM-based applications
 
 ▸ **Backend, APIs & Databases**  
 REST APIs, database-driven applications, system integrations, and reliable data exchange between services

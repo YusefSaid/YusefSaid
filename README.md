@@ -1,8 +1,7 @@
 # Hi 👋, I'm Yusef Said
 
 MSc in AI Engineering & BSc in Computer Engineering.  
-Focused on data engineering, data analysis, statistics, automation, and reliable data pipelines for AI/ML and LLM workflows.  
-Interested in transforming raw data into high-quality, reproducible datasets and practical analytical systems for real-world applications.
+Focused on data engineering, analysis, statistics, automation, and data preparation for AI/ML and LLM systems.
 
 ---
 <!--
@@ -13,43 +12,26 @@ Interested in transforming raw data into high-quality, reproducible datasets and
 ## Tech Stack & Tools
 
 <p align="left">
-  <!-- ML/AI - PRIORITY -->
+  <!-- Data, AI & ML -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  
-  <!-- Web Frameworks -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  
-  <!-- Databases -->
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+  <!-- Databases & Data Systems -->
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  
-  <!-- DevOps & Tools -->
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+
+  <!-- Automation, DevOps & Tools -->
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-  
-  <!-- Visualization -->
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Draw.io-FF9900?style=for-the-badge&logo=draw.io&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
 ---
@@ -70,13 +52,11 @@ Model-ready dataset construction, training pipelines, experiment evaluation, and
 ▸ **Backend, APIs & Databases**  
 REST APIs, database-driven applications, system integrations, and reliable data exchange between services
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusefSaid&layout=compact&theme=github_dark" alt="Top Languages" width="400"/>
-
 ---
 ## Highlighted Projects
 
-### [Master's Thesis – Multi-Station Wave Forecasting & Extreme Event Detection](https://github.com/knaan-moha/IKT590-Master-project)
-Deep-learning research project for short-term significant wave-height forecasting and extreme-event detection in the Norwegian North Sea. Compared hybrid **CNN-LSTM** and **CNN-Transformer** architectures using ERA5 and CMEMS data, including bias correction, statistical evaluation, hyperparameter tuning, and multi-horizon forecasting from 1 to 24 hours.
+### [Master's Thesis – Hybrid Deep Learning for Wave Forecasting & Extreme Event Detection](https://github.com/knaan-moha/IKT590-Master-project)
+Hybrid deep learning research for short-term significant wave-height forecasting and extreme-event detection in the Norwegian North Sea. Compared **CNN-LSTM** and **CNN-Transformer** architectures using ERA5 and CMEMS data, including bias correction, statistical evaluation, hyperparameter tuning, and multi-horizon forecasting from 1 to 24 hours.
 
 ### [Data Warehouse Project](https://github.com/haavardos/IKT453-DataWarehouse)  
 Data warehouse solution using **Supabase, Neo4j, MongoDB, Docker, and Kafka**, featuring a STAR schema, streaming data pipeline, and materialized views for efficient analytics.
@@ -93,7 +73,7 @@ Web application and dashboard for monitoring automated backend processes. Design
 ### [Fish Identification](https://github.com/YusefSaid/fish-identification)
 Neural-network solution for identifying fish species from underwater images, trained using the Fish4Knowledge dataset for ecological monitoring.
 
-### Scripting & Infrastructure Projects ([1](https://github.com/YusefSaid/Shell-scripting) [2](https://github.com/YusefSaid/Cloud-instance-initialization) [3](https://github.com/YusefSaid/Containerization-Technology) [4](https://github.com/YusefSaid/Software-Provisioning-and-Configuration-Management) [5](https://github.com/YusefSaid/Infrastructure-As-Code))
+### Scripting & Infrastructure Projects
 1. [Shell Scripting](https://github.com/YusefSaid/Shell-scripting)
 2. [Cloud Instance Initialization](https://github.com/YusefSaid/Cloud-instance-initialization)
 3. [Containerization Technology](https://github.com/YusefSaid/Containerization-Technology)
